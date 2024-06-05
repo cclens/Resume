@@ -1,4 +1,4 @@
-![image](https://github.com/cclens/Resume/assets/117731232/06dd5eaf-150c-4686-a236-d91551c8ae1c)# Резюме: Кудышев Иван
+# Резюме: Кудышев Иван
 
 ## Кратко
 
@@ -26,6 +26,7 @@
 - на данный момент участник команды LIFE
 - https://github.com/bysmaks/LifeTrainings/tree/main/writeups (2024)
 - https://docs.google.com/document/d/11r2TPwMwSiFU1Va7Blj0Wd0KwWctSmbMFvhrUcWCI9s/edit (на тот момент состоял в команде Ymig)
+- ![image](https://github.com/cclens/Resume/assets/117731232/06dd5eaf-150c-4686-a236-d91551c8ae1c)
   
 ## Связь
 
