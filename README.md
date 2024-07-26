@@ -29,8 +29,8 @@
 ## Сертификаты и достижения
 
 - на данный момент участник команды по информационной безопасности LIFE
-- https://ctftime.org/team/8625/
-- https://github.com/bysmaks/LifeTrainings/tree/main/writeups (2024)
+- [CTFTime профиль команды](https://ctftime.org/team/8625/)
+- [некоторые врайтапы соревнований](https://github.com/bysmaks/LifeTrainings/tree/main/writeups) (2024)
 - [часть соревнований 2023](https://docs.google.com/document/d/11r2TPwMwSiFU1Va7Blj0Wd0KwWctSmbMFvhrUcWCI9s) (на тот момент состоял в команде Ymig)
 - Прохождение курса Embedded разработчик Eltex.
 - Прохождение курса сетевых технологий Eltex:
